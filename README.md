@@ -1,7 +1,7 @@
 
 # Cars App
 
-Bu proje, React Native kullanarak geliştirilmiş bir araba listesi uygulamasıdır. Uygulama, belirli bir API'den araba markaları ve modelleri ile ilgili bilgileri alır ve kullanıcıya görüntüler.
+Proje, React Native kullanarak geliştirilmiş bir araba listesi uygulamasıdır. Uygulama, belirli bir API'den araba markaları ve modelleri ile ilgili bilgileri alır ve kullanıcıya görüntüler.
 
 ### Gereksinimler
 
@@ -16,7 +16,7 @@ Bu projenin çalışması için aşağıdaki araçlara ihtiyacınız olacak:
 Projeyi yerel makinenize klonlayın:
 
 ```bash
-git clone https://github.com/your-username/cars-app.git
+gh repo clone Deryaglmz/cars_ReactNative
 cd cars-app
 ```
 
